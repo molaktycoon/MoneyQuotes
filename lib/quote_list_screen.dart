@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:moneyquotes/main.dart';
+import 'model/quote_model.dart';
 
 
 class QuoteListScreen extends StatefulWidget {

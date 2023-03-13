@@ -1,5 +1,7 @@
   import 'package:moneyquotes/main.dart';
 
+import 'model/quote_model.dart';
+
 final List<Quote> quotes = [
     Quote('Be yourself; everyone else is already taken.', 'Oscar Wilde'),
     Quote(
